@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple">#ab47bc</color>
+    <color name="purple_dark">#790e8b</color>
+    <color name="purple_light">#df78ef</color>
+    <color name="blue">#2196f3</color>
+    <color name="blue_dark">#0069c0</color>
+    <color name="blue_light">#6ec6ff</color>
+    <color name="card_bg">#ede7f6</color>
+</resources>
